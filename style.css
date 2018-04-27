@@ -1,0 +1,23 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+    width: 60px;
+}
+
+
+img {
+	width: 300px;
+}
+
+div {
+	width: 300px;
+	margin: auto;
+	margin-top: 200px;
+}
+
+
